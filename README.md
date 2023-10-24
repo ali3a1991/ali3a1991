@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">A Junior Fullstack Web developer from Germany</h3>
 
+- 👀 I’m interested in improving my coding skills
 - 🌱 I’m currently learning **TypeScript**
-
+- 💞️ I’m looking to collaborate on any project, that helps me learning.
 - 📫 How to reach me **ali3ajob@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
